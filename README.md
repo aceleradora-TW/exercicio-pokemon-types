@@ -32,7 +32,7 @@ A fraqueza de pikachu é tipo elétrico, logo sua fraqueza é ground e será lis
 
 Você pode seguir a matriz abaixo:
 
-[![matriz pokemon](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Pokemon_Type_Chart.svg/2048px-Pokemon_Type_Chart.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Pokemon_Type_Chart.svg/2048px-Pokemon_Type_Chart.svg.png)
+[![matriz pokemon]([https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Pokemon_Type_Chart.svg/2048px-Pokemon_Type_Chart.svg.png](https://i.redd.it/y1otlvy1p67e1.jpeg))]([https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Pokemon_Type_Chart.svg/2048px-Pokemon_Type_Chart.svg.png](https://i.redd.it/y1otlvy1p67e1.jpeg))
 
 Nesse exercicio podemos usar as condicionais. Importante também utilizar tipos e objetos.
 
