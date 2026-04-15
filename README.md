@@ -32,7 +32,26 @@ A fraqueza de pikachu é tipo elétrico, logo sua fraqueza é ground e será lis
 
 Você pode seguir a matriz abaixo:
 
-[![matriz pokemon]([https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Pokemon_Type_Chart.svg/2048px-Pokemon_Type_Chart.svg.png](https://i.redd.it/y1otlvy1p67e1.jpeg))]([https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Pokemon_Type_Chart.svg/2048px-Pokemon_Type_Chart.svg.png](https://i.redd.it/y1otlvy1p67e1.jpeg))
+Type	Forte Contra	Fraco Contra	Resistente a	Vulnerável a
+Normal		Rock, Ghost, Steel	Ghost	Fighting
+Fighting	Normal, Rock, Steel, Ice, Dark	Flying, Poison, Psychic, Bug, Ghost, Fairy	Rock, Bug, Dark	Flying, Psychic, Fairy
+Flying	Fighting, Bug, Grass	Rock, Steel, Electric	Fighting, Ground, Bug, Grass	Rock, Electric, Ice
+Poison	Grass, Fairy	Poison, Ground, Rock, Ghost, Steel	Fighting, Poison, Grass, Fairy	Ground, Psychic
+Ground	Poison, Rock, Steel, Fire, Electric	Flying, Bug, Grass	Poison, Rock, Electric	Water, Grass, Ice
+Rock	Flying, Bug, Fire, Ice	Fighting, Ground, Steel	Normal, Flying, Poison, Fire	Fighting, Ground, Steel, Water, Grass
+Bug	Grass, Psychic, Dark	Fighting, Flying, Poison, Ghost, Steel, Fire, Fairy	Fighting, Ground, Grass	Flying, Rock, Fire
+Ghost	Ghost, Psychic	Normal, Dark	Normal, Fighting, Poison, Bug	Ghost, Dark
+Steel	Rock, Ice, Fairy	Steel, Fire, Water, Electric	Normal, Flying, Poison, Rock, Bug, Steel, Grass, Psychic, Ice, Dragon, Fairy	Fighting, Ground, Fire
+Fire	Bug, Steel, Grass, Ice	Rock, Fire, Water, Dragon	Bug, Steel, Fire, Grass, Ice	Ground, Rock, Water
+Water	Ground, Rock, Fire	Water, Grass, Dragon	Steel, Fire, Water, Ice	Grass, Electric
+Grass	Ground, Rock, Water	Flying, Poison, Bug, Steel, Fire, Grass, Dragon	Ground, Water, Grass, Electric	Flying, Poison, Bug, Fire, Ice
+Electric	Flying, Water	Ground, Grass, Electric, Dragon	Flying, Steel, Electric	Ground
+Psychic	Fighting, Poison	Steel, Psychic, Dark	Fighting, Psychic	Bug, Ghost, Dark
+Ice	Flying, Ground, Grass, Dragon	Steel, Fire, Water, Ice	Ice	Fighting, Rock, Steel, Fire
+Dragon	Dragon	Steel, Fairy	Fire, Water, Grass, Electric	Ice, Dragon, Fairy
+Fairy	Fighting, Dragon, Dark	Poison, Steel, Fire	Fighting, Bug, Dragon, Dark	Poison, Steel
+Dark	Ghost, Psychic	Fighting, Dark, Fairy	Ghost, Psychic, Dark	Fighting, Bug, Fairy
+
 
 Nesse exercicio podemos usar as condicionais. Importante também utilizar tipos e objetos.
 
