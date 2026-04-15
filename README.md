@@ -94,6 +94,7 @@ Criar uma interface simples para:
 - Visualizar suas fraquezas
 - Filtrar ou buscar Pokémon
 
+---
 ## Critérios de Aceite
 - Suporte a Pokémon com 1 ou 2 tipos
 - Retorno correto das fraquezas
@@ -104,7 +105,8 @@ Criar uma interface simples para:
 
 Cada uma pode fazer uma UI diferente, a questão aqui é vocês explorarem as tecnologias.
 
-Tecnologias sugeridas
+---
+## Tecnologias sugeridas
 - TypeScript
 - React
 - Next.js (opcional)
